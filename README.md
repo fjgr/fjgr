@@ -40,24 +40,19 @@ Este GitHub es mi laboratorio personal donde comparto proyectos, pruebas y exper
 
 ## 🔬 Áreas de interés
 
-### 🏠 Smart Home
-
+### 🏠 [Smart Home](https://github.com/fjgr/smart-home)
 Home Assistant, ESPHome, Zigbee, MQTT y automatización doméstica.
 
-### 🤖 Inteligencia Artificial
-
+### 🤖 [Inteligencia Artificial](https://github.com/fjgr/ai-lab)
 LLMs, automatización inteligente, análisis de datos y aprendizaje continuo.
 
-### ⚙️ Sistemas y Automatización
-
+### ⚙️ [Sistemas y Automatización](https://github.com/fjgr/systems-automation)
 Linux, Docker, scripting y administración de sistemas.
 
-### 🔌 IoT y Electrónica
-
+### 🔌 [IoT y Electrónica](https://github.com/fjgr/iot-electronics)
 ESP32, sensores, microcontroladores y electrónica aplicada.
 
-### 🖨️ Maker Projects
-
+### 🖨️ [Maker Projects](https://github.com/fjgr/maker-projects)
 Impresión 3D, integración hardware/software y proyectos personales.
 
 ---
